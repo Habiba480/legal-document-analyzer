@@ -1,6 +1,4 @@
-Here's a professional `README.md` for your multilingual legal assistant app project, tailored for your GitHub repo:
 
----
 
 # Multilingual Legal Document Analyzer
 
